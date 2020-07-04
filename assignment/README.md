@@ -1,3 +1,7 @@
+# Grade
+
+1st Class
+
 # Details
 
 Implment a CUDA program that executes the work efficient exclusive scan as described in the below paper:
